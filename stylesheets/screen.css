@@ -1,0 +1,32 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #edede3;
+  margin: 0;
+  padding: 0;
+}
+
+div, img {
+  margin: 0; 
+  padding: 0;
+  display: block;
+}
+
+img {
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+}
+
+table td.center {
+  width: 1%;
+}
+
+table td.left {
+  background: url('../images/stack-bg.png') 0 0 repeat-x 
+}

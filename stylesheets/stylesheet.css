@@ -54,7 +54,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #212121;
+  background: #edede3;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -143,8 +143,8 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
+  /*padding: 5px;
+  margin: 10px 0 10px 0;*/
   border: 1px solid #ebebeb;
 
   box-shadow: 0 0 5px #ebebeb;
@@ -254,7 +254,7 @@ form {
 }
 
 img {
-  width: 100%;
+  /*width: 100%;*/
   max-width: 100%;
 }
 
@@ -268,8 +268,8 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
+  max-width: 1200px;
+  /*padding: 20px 10px;*/
   margin: 0 auto;
 }
 
@@ -363,7 +363,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  /*padding-top: 40px;*/
 }
 
 #footer_wrap {
